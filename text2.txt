@@ -1,2 +1,3 @@
 this is file2 and 
 this is file3
+teat three

@@ -1,7 +1,7 @@
 package vo;
 
 public class Student {
-	private int studentId;
+	private int studentId1;
 	private String studentName;
 	private String studentAddr;
 	private String age;
@@ -11,11 +11,11 @@ public class Student {
 	
 	public Student(){}
 
-	public int getStudentId() {
+	public int getStudentId1() {
 		return studentId;
 	}
 
-	public void setStudentId(int studentId) {
+	public void setStudentId(int studentId1) {
 		this.studentId = studentId;
 	}
 
